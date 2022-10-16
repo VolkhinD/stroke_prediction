@@ -6,3 +6,5 @@ In opposite to that, preсision is extremely low. But it's better to be overdres
 In the second part I create a web app using Streamlit. It's a simple questionnaire where only 6 features left:  
 'gender', 'age', 'hypertension', 'heart_disease', 'bmi', 'smoking_status' and  'stroke'
 In result it gives a probality to have a stroke.
+
+![Example](https://github.com/VolkhinD/stroke_prediction/blob/main/Screen%20Shot%202022-10-15%20at%2020.47.52.png)
